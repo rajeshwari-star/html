@@ -1,0 +1,35 @@
+.div1 {
+    background-color: lightblue;
+    text-align: blue;
+    color:pink;
+    font-size: 50px;
+    font-family: arial,sans-serif;
+}
+
+.div2 {
+    background-color: yellow;
+    text-align: pink;
+    color:red;
+    font-size: 50px;
+    font-family: arial,sans-serif;
+}
+
+/* Second Division */
+.div3 {
+    background-color: lightpink;
+    text-align: orange;
+    color:lightgreen;
+    font-size: 50px;
+    font-family: arial,sans-serif;
+}
+
+
+
+/* Third Division */
+.div4 {
+    background-color: lightgreen;
+     text-align: lightgray;
+    color:yellowgreen;
+    font-size: 50px;
+    font-family: arial,sans-serif;
+}
